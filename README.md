@@ -1,3 +1,7 @@
-# Lama Dev Chat App Starter template
+Realtime Web Chat application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created using React
+
+https://realtimewebchatapp.netlify.app/
+
+Feel free to use the application by clicking this link!
